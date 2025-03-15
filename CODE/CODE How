@@ -1,0 +1,3 @@
+The artificial intelligence model studied in this paper, based on composite learning - advanced neuron learning in ecosystems, demonstrates unique advantages in dataset learning and model performance. 
+It exhibits relatively good fitting effects, particularly evident in dataset learning (other aspects are also good). Testing method: Download the zip program, unzip it, and use coders2 or others.
+The following libraries are needed for testing: numpy, matplotlib, sympy. 
